@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperspdate",
+        "uuid": 5392050,
+        "checksum": "letr4q"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
